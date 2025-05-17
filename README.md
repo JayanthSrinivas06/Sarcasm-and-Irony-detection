@@ -19,7 +19,14 @@ This project implements a Bidirectional LSTM (BiLSTM) model for text classificat
 Install the necessary dependencies using:  
 ```bash
 pip install pandas numpy scikit-learn tensorflow keras nltk emoji joblib torch
-```  
+```
+
+## Team Members
+
+| Name | Github Profile |
+|--------------|-----------------|
+| Jayanth Srinivas B | [GitHub profile](https://github.com/JayanthSrinivas06) |
+| Sarvan Dattu P | [GitHub profile](https://github.com/Sarvan05) |
 
 ## Usage
 1. Clone the repository or download the `sarcasm&irony.ipynb` file.  
