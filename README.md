@@ -25,8 +25,8 @@ pip install pandas numpy scikit-learn tensorflow keras nltk emoji joblib torch
 
 | Name | Github Profile |
 |--------------|-----------------|
-| Jayanth Srinivas B | [GitHub profile](https://github.com/JayanthSrinivas06) |
-| Sarvan Dattu P | [GitHub profile](https://github.com/Sarvan05) |
+| Jayanth Srinivas Bommisetty | [GitHub profile](https://github.com/JayanthSrinivas06) |
+| Sarvan Dattu Perumalla | [GitHub profile](https://github.com/Sarvan05) |
 
 ## Usage
 1. Clone the repository or download the `sarcasm&irony.ipynb` file.  
