@@ -1,4 +1,4 @@
-# Deep Learning for Text Classification (BiLSTM Model)**  
+# Deep Learning for Text Classification (BiLSTM Model)
 
 ## Overview  
 This project implements a Bidirectional LSTM (BiLSTM) model for text classification using TensorFlow/Keras. The notebook includes data preprocessing, tokenization, sequence padding, model training, and evaluation. The dataset consists of labeled text data, and the model is trained to classify text into different categories.  
